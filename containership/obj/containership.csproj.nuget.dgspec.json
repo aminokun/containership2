@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\$chool\\Semester 2.2\\containership\\containership\\containership.csproj": {}
+    "F:\\$githubRepository\\containership\\containership\\containership.csproj": {}
   },
   "projects": {
-    "C:\\$chool\\Semester 2.2\\containership\\containership\\containership.csproj": {
+    "F:\\$githubRepository\\containership\\containership\\containership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\$chool\\Semester 2.2\\containership\\containership\\containership.csproj",
+        "projectUniqueName": "F:\\$githubRepository\\containership\\containership\\containership.csproj",
         "projectName": "containership",
-        "projectPath": "C:\\$chool\\Semester 2.2\\containership\\containership\\containership.csproj",
-        "packagesPath": "C:\\Users\\amine\\.nuget\\packages\\",
-        "outputPath": "C:\\$chool\\Semester 2.2\\containership\\containership\\obj\\",
+        "projectPath": "F:\\$githubRepository\\containership\\containership\\containership.csproj",
+        "packagesPath": "C:\\Users\\Amine\\.nuget\\packages\\",
+        "outputPath": "F:\\$githubRepository\\containership\\containership\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\amine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

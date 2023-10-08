@@ -1,0 +1,14 @@
+F:\$githubRepository\containership\containership\bin\Debug\net6.0\containership.exe
+F:\$githubRepository\containership\containership\bin\Debug\net6.0\containership.deps.json
+F:\$githubRepository\containership\containership\bin\Debug\net6.0\containership.runtimeconfig.json
+F:\$githubRepository\containership\containership\bin\Debug\net6.0\containership.dll
+F:\$githubRepository\containership\containership\bin\Debug\net6.0\containership.pdb
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.GeneratedMSBuildEditorConfig.editorconfig
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.AssemblyInfoInputs.cache
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.AssemblyInfo.cs
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.csproj.CoreCompileInputs.cache
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.dll
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\refint\containership.dll
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.pdb
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\containership.genruntimeconfig.cache
+F:\$githubRepository\containership\containership\obj\Debug\net6.0\ref\containership.dll

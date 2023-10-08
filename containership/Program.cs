@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Ship ship = new Ship(2,3);
+            Console.WriteLine(ship.ToString());
+
         }
     }
 }
